@@ -1,0 +1,19 @@
+Data set
+Instance/sample
+Attribute value/feature
+Attribute/feature space
+Feature vector
+
+training/learning
+training data
+training sample
+label
+example
+
+Classification: when value are discrete. Ex: face recogenation, action recogenation
+Regression: when value are non-discrete, Ex: house price prediction, stock price prediction
+Binary classification: only two class to determine. Ex: true/false, is animal or not, stock price up/down, Positive/Negative
+Multi-class classification: multiple class to determine.
+Clustering: Gather similar data to one group
+Multi-labeling annotation: Compare to Classification, this handles more complex scenario with multiple class to identify Ex: photo search
+

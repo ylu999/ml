@@ -1,0 +1,2 @@
+Learning process is a process that searches all hypothesis space and locate the model that matches training set.
+We might find multiple hypothesis models that matches training set, we call this hypothesis set as version space.

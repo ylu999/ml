@@ -1,0 +1,8 @@
+Learn a mapping from input to output, called model
+The collection of model is hypothesis space.
+
+Model:
+  Probability model: Conditional probability distribution P(Y|X)
+  Non-Probability model: Determination function Y=f(X)
+Union probability distribution: Assume the random variable from input(X) and output(Y) follows union probability distributionP(X,Y)
+
